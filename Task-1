@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> welcome to batch 1346 html </h1>
+    <marquee><h2>welcome to batch 1346 html</h2></marquee>
+    <h3>welcome to batch 1346 html</h3>
+    <h4>welcome to batch 1346 html</h4>
+    <h5>welcome to batch 1346 html</h5>
+    <p>This is a simple paragraph.</p>
+</body>
+</html>
