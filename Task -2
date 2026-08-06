@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <caption><h1>Employee Details Card</h1></caption>
+    <hr>
+   
+<h1>Google</h1>
+<h2>Employee Name: Vaishnavi Patil</h2>
+<p><b>Designation:</b> Support Engineer</p>
+<p><b>Department:</b>Computer science</p>
+<p><strong>Experience:</strong> 0-3 Year</p>
+<p><b>Skills:</b> <b>Css, HTML</b></p>
+<p>Notice:<mark>15 Days</mark></mark></p>
+<p><i>Joining Date: 5 Aug 2026</i></p>
+<p>Java<sup>TM</sup></p>
+<p>H<sub>2</sub>O</p>
+</body>
+</html>
