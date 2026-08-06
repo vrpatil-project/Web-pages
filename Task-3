@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Resume</title>
+</head>
+<body>
+
+<h1><mark>RESUME</mark></h1>
+<hr>
+<hr>
+
+<h2><u>Vaishnavi Patil</u></h2>
+
+<hr>
+<h3><strong>Career Objective</strong></h3>
+<p>
+I am a passionate and hardworking student. My goal is to become a
+successful <b>Software Developer</b> and improve my programming skills.
+</p>
+<hr>
+<h3><strong>Education</strong></h3>
+<h4>Bachelor of Computer Applications (BCA)</h4>
+<p><b>College:</b> ABC College</p>
+<p><b>Year:</b> Second Year</p>
+<hr>
+<h3><strong>Skills</strong></h3>
+
+<p>~ HTML</p>
+<p>~ CSS <small>(Learning)</small></p>
+<p>~ Java Basics</p>
+<p>~ Git & GitHub</p>
+<hr>
+<h3><strong>Projects</strong></h3>
+
+<h4><u>Employee Profile</u></h4>
+<p>
+Created an employee profile using <b>HTML</b>.
+</p>
+<hr>
+<h4><u>Resume Website</u></h4>
+<p>
+Created a simple resume using only HTML tags.
+</p>
+<hr>
+<h3><strong>Contact Details</strong></h3>
+
+<p><b>Email:</b> vaishnavi@example.com</p>
+<p><b>Phone:</b> 9876543210</p>
+<p><b>Location:</b> Maharashtra, India</p>
+
+<hr>
+
+
+<h1><mark><i>"Thank You"</i></mark></h1>
+</p>
+
+</body>
+</html>
